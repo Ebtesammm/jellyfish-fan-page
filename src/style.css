@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: Monospace;
   background: #f5f6f7;
   text-align: center;
 }
@@ -48,11 +48,20 @@ ol{
 }
 
 a {
+  
+  color:red;
+  
+  
+  
+}
+
+#image-container {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+button{
   border-style: solid ;
   border-width:2px;
-  border-color:black;
-  color:white;
-  background-color:black;
-  
-  
+  color:black;
 }
